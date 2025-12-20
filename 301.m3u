@@ -393,8 +393,6 @@ http://go.bkpcp.top/mg/cctv2?$BKPCP线路
 http://go.bkpcp.top/mg/cctv13?$BKPCP线路
 #EXTINF:0,CCTV2
 http://m.061899.xyz/mg/cctv2
-#EXTINF:0,广东卫视
-http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=2025121816021046862998c0c84961bab17175bd93cecc&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251218160210&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20251218160210&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.12.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=afb390e270739055d6a07f41b99d1f3b&sv=10004&ct=android
 #EXTINF:0,CCTV1综合
 http://hls-pull-wicketpw.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
 #EXTINF:0,CCTV2财经
@@ -415,18 +413,12 @@ http://hls-pull-wicketpw.speedws.com/live/ELjaeHOFG9HT3UOUJ5sbRcrufQf3CnhBzPoHD2
 http://hls-pull-wicketpw.speedws.com/live/9nWoj6aYLHQtkV1fXQa0tN6c00jq5FxEqzfqZ6OBBls4gDePqp.flv
 #EXTINF:0,TVB翡翠劇集
 http://hls-pull-wicketpw.speedws.com/live/d44FhMk2AV9IbtcJgmYc7rrDSOOxnls4gDTnY2MtgFyn0ArB7z.flv
-#EXTINF:0,華藝中文
-http://hls-pull-wicketpw.speedws.com/live/JNFujWQCFcYCBU2iOu2XAyb3mbuNNS5PTDHJRuFYfN3ccgIZrS.flv
 #EXTINF:0,靖天电影
 http://hls-pull-wicketpw.speedws.com/live/GXPI9pS5PTDUOUD57kT4TKIwvg42mMQvSI7vZM0WIH8WcBfUHU.flv
 #EXTINF:0,東森电影
 http://hls-pull-wicketpw.speedws.com/live/bCfUAGCL9ukBOGb6dOi9TS5PTD9yKesDJWcvlAgBMV6uv722A6.flv
 #EXTINF:0,TVBS精采
 http://hls-pull-wicketpw.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
-#EXTINF:0,ROCK_Action
-http://hls-pull-wicketpw.speedws.com/live/G1WNdbnkClg4c5eHhuq6kyUFJVhdgKKzF7vODS5PTDHTgBLBtO.flv
-#EXTINF:0,民视影剧
-http://hls-pull-wicketpw.speedws.com/live/z0Vp6Rj91d9fVMBBepN5tL45yIvw8S5PTDOTgHyml5y7Sy7uhf.flv
 #EXTINF:0,中天新闻
 http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 #EXTINF:0,CCTV-5
